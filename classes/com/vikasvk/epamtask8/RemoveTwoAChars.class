@@ -1,0 +1,13 @@
+Êþº¾   4 6
+  
+    
+  
+  ! " #
+  $
+  %
+  &
+  ' ( ) <init> ()V Code LineNumberTable LocalVariableTable this -Lcom/vishalkaushik/epamtask8/RemoveTwoAChars; removeAChars &(Ljava/lang/String;)Ljava/lang/String; string Ljava/lang/String; result StackMapTable * 
+SourceFile RemoveTwoAChars.java   + , java/lang/StringBuilder - . [aA]+   / 0 1 2 - 3 4 5 +com/vikasvk/epamtask8/RemoveTwoAChars java/lang/Object java/lang/String length ()I 	substring (II)Ljava/lang/String; 
+replaceAll 8(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String; append -(Ljava/lang/String;)Ljava/lang/StringBuilder; (I)Ljava/lang/String; toString ()Ljava/lang/String; !               /     *· ±                               ‡     /+M+¶ ¡ &» Y· +¶ ¶ ¶ 	+¶ 
+¶ 	¶ M,°              
+  -          /       /     -        ü -       
